@@ -1,0 +1,27 @@
+
+$2y$10$v25wMcEtZagOdjcYEQMKeujlsdJtIF/jSecUmcccvOKljGdp67hxC
+install npm
+install vue router
+install sweetalert 2
+
+redirect korar jonno this.$router.push({ name: 'home' })
+
+created() method first automatic call hoy
+hide sidebar and topbar
+end video 90
+install noty, 
+
+end video 91
+
+emplyee
+    ->create emplyee store
+        1.Emplyee name
+        2.Emplyee Email
+        3.Emplyee Phone
+        4.Emplyee Address
+        5.Emplyee Salary
+        6.Emplyee Nid
+        7.Emplyee Date of birth
+        8.Emplyee Photo
+        9.Emplyee joing date
+install laravel image intervation
